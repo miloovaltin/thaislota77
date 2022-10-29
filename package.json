@@ -1,0 +1,16 @@
+{
+"name": "thaislota77",
+"theme": "thaislot a77",
+"version": "1.6.9",
+"description": "thaislot a77 สมัครสมาชิกเว็บไซต์พนันเว็บตรง ระบบออโต้ แจกเครดิตฟรี",
+"keywords": [
+"thaislot a77",
+"thaislot a77 เครดิตฟรี",
+"thaislot a77 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/thaislota77",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
